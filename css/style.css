@@ -1,0 +1,80 @@
+@import url("reset.css");
+
+#main{
+    margin: 30px 10px;
+    background-color: #EEEEEE;
+    font-family: 'Lato', sans-serif;
+    border-radius: 5px;
+    color: #333;
+}
+
+#title{
+    font-size: 2.5em;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+header{
+    text-align: center;
+}
+
+header p{
+    padding-bottom: 15px;
+}
+
+.img-div{
+    background-color: #fff;
+    padding: 3% 2%;
+    text-align: center;
+}
+
+.img-div p{
+    margin-top: 2%;
+}
+
+#image{
+    width: 100%;
+    text-align: center;
+}
+
+.list h3{
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    padding: 40px 0;
+}
+
+.list{
+    width: 70%;
+    margin: auto;
+}
+
+.list ul{
+    list-style: disc;
+}
+
+.list ul li{
+    padding: 15px 0;
+    line-height: 24px;
+}
+
+.list p{
+    margin-top: 20px;
+}
+
+#tribute-info{
+    font-weight: bold;
+    font-size: 18px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#tribute-link{
+    color: #7BA0BD;
+}
